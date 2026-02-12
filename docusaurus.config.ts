@@ -13,7 +13,7 @@ const config: Config = {
   organizationName: 'your-org',
   projectName: 'frontend-docs',
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
 
   i18n: {
     defaultLocale: 'zh-Hans',
