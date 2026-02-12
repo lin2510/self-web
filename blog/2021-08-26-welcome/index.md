@@ -1,29 +1,60 @@
 ---
 slug: welcome
-title: Welcome
-authors: [slorber, yangshun]
-tags: [facebook, hello, docusaurus]
+title: 欢迎来到前端技术博客
+authors: [lin2510]
+tags: [前端, React, AntD, 技术分享]
 ---
 
-[Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).
-
-Here are a few tips you might find useful.
+欢迎来到我的前端技术博客！这里是我分享前端开发经验、技术洞察和最佳实践的地方。
 
 <!-- truncate -->
 
-Simply add Markdown files (or folders) to the `blog` directory.
+## 关于我
 
-Regular blog authors can be added to `authors.yml`.
+我是一名 **前端技术专家**，专注于 React + AntD 架构设计和性能优化，拥有丰富的企业级应用开发经验。
 
-The blog post date can be extracted from filenames, such as:
+## 博客内容
 
-- `2019-05-30-welcome.md`
-- `2019-05-30-welcome/index.md`
+这里我会分享：
 
-A blog post folder can be convenient to co-locate blog post images:
+- **React 生态**：从基础原理到高级特性
+- **AntD 实战**：组件库使用技巧和性能优化
+- **前端架构**：大型应用的设计与落地
+- **性能优化**：从加载到运行的全链路优化
+- **工程化**：构建工具、CI/CD、代码质量
+- **技术趋势**：前沿技术的探索与实践
 
-![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)
+## 技术栈
 
-The blog supports tags as well!
+- **前端框架**：React 17/18、TypeScript
+- **UI 组件库**：Ant Design 5.x、Ant Design X
+- **构建工具**：Vite、Webpack
+- **状态管理**：Zustand、React Query
+- **部署方案**：Docker、GitHub Actions
 
-**And if you don't want a blog**: just delete this directory, and use `blog: false` in your Docusaurus config.
+## 如何使用
+
+### 阅读文章
+
+浏览博客列表，选择感兴趣的文章阅读。每篇文章都会包含：
+- 核心原理解析
+- 实践代码示例
+- 最佳实践总结
+- 真实案例分析
+
+### 交流讨论
+
+欢迎在评论区分享你的见解和问题，我会定期回复。
+
+### 贡献内容
+
+如果你有好的话题建议或者想分享自己的经验，也可以联系我一起合作创作。
+
+## 联系我
+
+- **GitHub**：[lin2510](https://github.com/lin2510)
+- **Twitter**：[lin2510](https://twitter.com/lin2510)
+
+---
+
+**期待与你一起探索前端技术的无限可能！**

@@ -3,7 +3,7 @@ import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: '前端技术文档',
+  title: '云速易连前端技术文档',
   tagline: 'React17 + AntD/AntDX 前端开发规范与最佳实践',
   favicon: 'img/favicon.ico',
 
@@ -103,8 +103,8 @@ const config: Config = {
           title: '更多',
           items: [
             {
-              label: 'GitHub',
-              href: 'https://github.com/your-org/frontend-docs',
+              label: '公司官网',
+              href: 'http://www.yunsucoding.com:8080/',
             },
           ],
         },
