@@ -1,0 +1,8 @@
+{
+  "label": "MK工具库",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "MK 全局对象使用说明 - mkpaas 底层核心工具库"
+  }
+}
